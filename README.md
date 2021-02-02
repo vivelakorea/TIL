@@ -33,3 +33,7 @@ TODO
 - [x] 자료구조와 알고리즘 4~6단원 (https://programmers.co.kr/learn/courses/57)
 
 - [ ] 머신러닝 교과서 3단원 (https://colab.research.google.com/github/rickiepark/python-machine-learning-book-2nd-edition/blob/master/code/ch03/ch03.ipynb)
+
+bonus
+
+- [x] 자료구조와 알고리즘 7단원 (https://programmers.co.kr/learn/courses/57)
