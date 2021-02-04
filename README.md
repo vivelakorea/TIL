@@ -37,3 +37,13 @@ TODO
 bonus
 
 - [x] 자료구조와 알고리즘 7단원 (https://programmers.co.kr/learn/courses/57)
+
+## 2021/02/03
+
+- [ ] 자료구조와 알고리즘 8~10 (https://programmers.co.kr/learn/courses/57)
+- [x] 백준 linked list 문제들 최소 1개(https://www.acmicpc.net/workbook/view/1066)
+
+## 2021/02/04
+
+- [ ] 자료구조와 알고리즘 8~10 (https://programmers.co.kr/learn/courses/57)
+- [ ] 파이썬 알고리즘 인터뷰 162쪽까지
