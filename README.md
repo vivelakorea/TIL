@@ -57,3 +57,8 @@ bonus
 
 - [ ] 파이썬 알고리즘 인터뷰 연결 리스트, 그리디 알고리즘
 - [ ] 자료구조와 알고리즘 8~10 (https://programmers.co.kr/learn/courses/57)
+
+## 2021/02/09
+
+- [ ] 파이썬 알고리즘 인터뷰 배열
+- [x] vim 튜토리얼 15분까지(https://www.youtube.com/watch?v=IiwGbcd8S7I&t=921s)
