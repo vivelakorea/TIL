@@ -40,23 +40,23 @@ bonus
 
 ## 2021/02/03
 
-- [ ] 자료구조와 알고리즘 8~10 (https://programmers.co.kr/learn/courses/57)
+- [x] 자료구조와 알고리즘 8~10 (https://programmers.co.kr/learn/courses/57)
 - [x] 백준 linked list 문제들 최소 1개(https://www.acmicpc.net/workbook/view/1066)
 
 ## 2021/02/04
 
-- [ ] 자료구조와 알고리즘 8~10 (https://programmers.co.kr/learn/courses/57)
+- [x] 자료구조와 알고리즘 8~10 (https://programmers.co.kr/learn/courses/57)
 - [x] 파이썬 알고리즘 인터뷰 162쪽까지
 
 ## 2021/02/05
 
 - [ ] 파이썬 알고리즘 인터뷰 연결 리스트, 그리디 알고리즘
-- [ ] 자료구조와 알고리즘 8~10 (https://programmers.co.kr/learn/courses/57)
+- [x] 자료구조와 알고리즘 8~10 (https://programmers.co.kr/learn/courses/57)
 
 ## 2021/02/07
 
 - [ ] 파이썬 알고리즘 인터뷰 연결 리스트, 그리디 알고리즘
-- [ ] 자료구조와 알고리즘 8~10 (https://programmers.co.kr/learn/courses/57)
+- [x] 자료구조와 알고리즘 8~10 (https://programmers.co.kr/learn/courses/57)
 
 ## 2021/02/09
 
@@ -68,3 +68,7 @@ bonus
 
 - [x] vim 튜토리얼 30분까지(https://www.youtube.com/watch?v=IiwGbcd8S7I&t=921s)
 - [x] 파이썬 알고리즘 인터뷰 연결 리스트
+
+## 2021/02/13
+
+- [x] 자료구조와 알고리즘 8~11 (https://programmers.co.kr/learn/courses/57)
