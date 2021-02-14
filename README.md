@@ -72,3 +72,7 @@ bonus
 ## 2021/02/13
 
 - [x] 자료구조와 알고리즘 8~11 (https://programmers.co.kr/learn/courses/57)
+
+## 2021/02/14
+
+- [x] 자료구조와 알고리즘 12 ~ 13 (https://programmers.co.kr/learn/courses/57)
