@@ -1,5 +1,19 @@
 # TIL
 
+- 코딩테스트 준비
+- [] 파이썬 알고리즘 인터뷰
+- [] 종만북
+- [] 삼성 sw 역량테스트 기출문제(https://www.acmicpc.net/workbook/view/1152)
+- [] 삼성 A형 기출 문제(https://www.acmicpc.net/workbook/view/2771)
+
+- CS
+- [] 네트워크(https://www.coursera.org/learn/computer-networking?specialization=google-it-support#syllabus)
+- [] 데이터베이스(http://etl.snu.ac.kr/local/ubonline/course_view.php?id=188325&returnurl=L2xvY2FsL3Vib25saW5lL2luZGV4LnBocD9zZWFyY2h0eXBlPTEma2V5d29yZD0lRUIlOEQlQjAlRUMlOUQlQjQlRUQlODMlODA=)
+- [] 운영 체제와 정보 기술의 원리
+
+- 아트클립
+- [] 아트클립 aws 배포까지
+
 ## 2021/01/31
 
 - [x] wetube #7까지
@@ -87,5 +101,9 @@ bonus
 
 ## 2021/02/18
 
-- [ ] 파이썬 알고리즘 인터뷰 22번까지 복습
+- [x] 파이썬 알고리즘 인터뷰 8번까지 복습
 - [ ] 자료구조와 알고리즘 16(https://programmers.co.kr/learn/courses/57)
+
+## 2021/02/19
+
+- [ ]
