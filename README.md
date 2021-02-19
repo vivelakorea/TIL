@@ -1,18 +1,20 @@
 # TIL
 
 - 코딩테스트 준비
-- [] 파이썬 알고리즘 인터뷰
-- [] 종만북
-- [] 삼성 sw 역량테스트 기출문제(https://www.acmicpc.net/workbook/view/1152)
-- [] 삼성 A형 기출 문제(https://www.acmicpc.net/workbook/view/2771)
+- [ ] 파이썬 알고리즘 인터뷰
+- [ ] 종만북
+- [ ] 삼성 sw 역량테스트 기출문제(https://www.acmicpc.net/workbook/view/1152)
+- [ ] 삼성 A형 기출 문제(https://www.acmicpc.net/workbook/view/2771)
 
 - CS
-- [] 네트워크(https://www.coursera.org/learn/computer-networking?specialization=google-it-support#syllabus)
-- [] 데이터베이스(http://etl.snu.ac.kr/local/ubonline/course_view.php?id=188325&returnurl=L2xvY2FsL3Vib25saW5lL2luZGV4LnBocD9zZWFyY2h0eXBlPTEma2V5d29yZD0lRUIlOEQlQjAlRUMlOUQlQjQlRUQlODMlODA=)
-- [] 운영 체제와 정보 기술의 원리
+- [ ] 네트워크(https://www.coursera.org/learn/computer-networking?specialization=google-it-support#syllabus)
+- [ ] 데이터베이스(http://etl.snu.ac.kr/local/ubonline/course_view.php?id=188325&returnurl=L2xvY2FsL3Vib25saW5lL2luZGV4LnBocD9zZWFyY2h0eXBlPTEma2V5d29yZD0lRUIlOEQlQjAlRUMlOUQlQjQlRUQlODMlODA=)
+- [ ] 운영 체제와 정보 기술의 원리
 
-- 아트클립
-- [] 아트클립 aws 배포까지
+- 프로젝트
+- [ ] 아트클립 aws 배포까지
+- [ ] 멋쟁이사자처럼
+- [ ] SOPT
 
 ## 2021/01/31
 
