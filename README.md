@@ -112,5 +112,16 @@ bonus
 
 ## 2021/02/20
 
-- [ ] 계획짜기
-- [ ] 코테 스터디 준비(파이썬 알고리즘 인터뷰 9, 10, 11, 12번 화이트보드 풀이 준비)
+- [x] 계획짜기
+- [x] 코테 스터디 준비(파이썬 알고리즘 인터뷰 9, 10, 11, 12번 화이트보드 풀이 준비)
+- [x] 아트 클립 남은 명세 작성, 코딩
+
+## 2021/02/21
+
+- [ ] 자료구조와 알고리즘 16(https://programmers.co.kr/learn/courses/57)
+
+## 2021/02/22
+
+- [x] 네트워크 1주차 1/3, 블로그에 정리(https://www.coursera.org/learn/computer-networking?specialization=google-it-support#syllabus)
+- [x] 파이썬 챌린지
+- [x] 멋사 지원 과제 풀기
