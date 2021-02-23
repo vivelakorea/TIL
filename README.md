@@ -125,3 +125,10 @@ bonus
 - [x] 네트워크 1주차 1/3, 블로그에 정리(https://www.coursera.org/learn/computer-networking?specialization=google-it-support#syllabus)
 - [x] 파이썬 챌린지
 - [x] 멋사 지원 과제 풀기
+
+## 2021/02/23
+
+- [x] 파이썬 챌린지
+- [x] 아트클립 프로필 페이지 간소화, 프로필 편집 구현
+- [ ] 멋사 지원
+- [ ] 네트워크 1주차 2/3, 블로그에 정리(https://www.coursera.org/learn/computer-networking?specialization=google-it-support#syllabus)
