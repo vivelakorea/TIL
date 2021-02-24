@@ -132,3 +132,7 @@ bonus
 - [x] 아트클립 프로필 페이지 간소화, 프로필 편집 구현
 - [ ] 멋사 지원
 - [ ] 네트워크 1주차 2/3, 블로그에 정리(https://www.coursera.org/learn/computer-networking?specialization=google-it-support#syllabus)
+
+## 2021/02/24
+
+- [x] 파이썬 챌린지
