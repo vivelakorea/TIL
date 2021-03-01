@@ -118,7 +118,7 @@ bonus
 
 ## 2021/02/21
 
-- [ ] 자료구조와 알고리즘 16(https://programmers.co.kr/learn/courses/57)
+- [x] 자료구조와 알고리즘 16(https://programmers.co.kr/learn/courses/57)
 
 ## 2021/02/22
 
@@ -140,3 +140,12 @@ bonus
 ## 2021/02/25
 
 - [x] 모두의 네트워크 데이터 링크까지
+
+## 2021/02/28
+
+- [x] 자료구조와 알고리즘 16(https://programmers.co.kr/learn/courses/57)
+- [x] 파이썬 알고리즘 인터뷰 선형 자료구조 마무리
+
+## 2021/03/01
+
+- [ ] 멋쟁이사자처럼 지원서 초안 작성
