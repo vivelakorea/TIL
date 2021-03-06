@@ -12,9 +12,11 @@
 - [ ] 운영 체제와 정보 기술의 원리
 
 - 프로젝트
-- [ ] 아트클립 aws 배포까지
+- [ ] 아트클립 ~~aws~~ heroku 배포까지
 - [ ] 멋쟁이사자처럼
 - [ ] SOPT
+
+- 깃
 
 ## 2021/01/31
 
@@ -77,7 +79,7 @@ bonus
 ## 2021/02/09
 
 - [x] 파이썬 알고리즘 인터뷰 배열
-- [ ] 파이썬 알고리즘 인터뷰 연결 리스트
+- [x] 파이썬 알고리즘 인터뷰 연결 리스트
 - [x] vim 튜토리얼 15분까지(https://www.youtube.com/watch?v=IiwGbcd8S7I&t=921s)
 
 ## 2021/02/10
@@ -104,7 +106,7 @@ bonus
 ## 2021/02/18
 
 - [x] 파이썬 알고리즘 인터뷰 8번까지 복습
-- [ ] 자료구조와 알고리즘 16(https://programmers.co.kr/learn/courses/57)
+- [x] 자료구조와 알고리즘 16(https://programmers.co.kr/learn/courses/57)
 
 ## 2021/02/19
 
@@ -130,8 +132,8 @@ bonus
 
 - [x] 파이썬 챌린지
 - [x] 아트클립 프로필 페이지 간소화, 프로필 편집 구현
-- [ ] 멋사 지원
-- [ ] 네트워크 1주차 2/3, 블로그에 정리(https://www.coursera.org/learn/computer-networking?specialization=google-it-support#syllabus)
+- [x] 멋사 지원
+- [x] 네트워크 1주차 2/3, 블로그에 정리(https://www.coursera.org/learn/computer-networking?specialization=google-it-support#syllabus)
 
 ## 2021/02/24
 
@@ -148,4 +150,8 @@ bonus
 
 ## 2021/03/01
 
-- [ ] 멋쟁이사자처럼 지원서 초안 작성
+- [x] 멋쟁이사자처럼 지원서 초안 작성
+
+## 2021/03/05
+
+- []
